@@ -10,7 +10,7 @@ Over consolidated line -> as the preconsolidation ratio divided by the initial s
 2. Induced Stresses -> Caused by external loads on ground surface (building foundation, water tank, vehicle)
 
 
-sumber:
+sumber:    
 [spoonfeedme.com.au](https://spoonfeedme.com.au/course/148/super/soil101/geology-soil-and-geotechnical-engineering/video/12007)    
 [CE326 Mod 9.4-9.5](https://www.youtube.com/watch?v=H--PYHEXv5g)
 
