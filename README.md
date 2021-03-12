@@ -1,7 +1,7 @@
 # soil-mechanics
 kumpulan materi mekanika tanah
 
-Normal consolidated line -> as the effective stress increases the void decreases
+Normal consolidated line -> as the effective stress increases the void decreases    
 Over consolidated line -> as the preconsolidation ratio divided by the initial stress.
 
 
